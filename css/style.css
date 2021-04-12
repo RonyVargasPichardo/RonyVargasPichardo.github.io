@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -8,12 +9,29 @@ body{
 
 .container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     margin: 0 auto;
     text-align: left;
-    border: 2px solid black;
+    border: 1px solid rgb(70, 69, 69);
+}
+.post{
+    padding: 1em;
+}
+.cabeza{
+    background-color: rgb(96, 96, 194);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 0px 20px 20px 0px rgba(0,0,0,05);
+    margin: 0;
+    padding: 0.5em;
+}
+.cabeza .tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.9em;
 }
 
 .container h3{
-    font-size: 20px;
+    font-size: 25px;
 }
