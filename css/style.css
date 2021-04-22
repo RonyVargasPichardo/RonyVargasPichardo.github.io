@@ -53,3 +53,9 @@ p{
     color:rgb(245, 106, 7);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+footer{
+	width:100%;
+	text-align: center;
+	background-color: rgb(144, 144, 194);
+}
