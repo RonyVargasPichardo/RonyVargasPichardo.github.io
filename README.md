@@ -9,5 +9,6 @@ Un blog increible de mis conocimientos de Git y GitHub de Platzi
 - El verdadero amor de las buenas practicas.
 - Trucos muy locos con el profesor Freddy.
 - Las personalidades multiples de Freddy Vega.
+- creado con mucho amor by Rony Vargas.
 
 > Como amable recordatorio:  "Este es un ejemplo de mi readme.md" de todo lo que aprendi en este maravilloso curso muy bueno y facil de entender en este enlace de https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-prac 
